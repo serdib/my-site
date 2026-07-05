@@ -1,0 +1,8 @@
+.social-icons-lists, .social-icons-list-item {margin:0 !important;}
+
+/* Сверху | Справа | Снизу | Слева */
+.socicon-500px {padding:9px 9px 9px 0px !important;}
+.socicon-vkontakte, .socicon-instagram, .socicon-facebook, .socicon-linkedin {padding:9px !important;}
+.socicon-linkedin {padding:9px 0px 9px 9px !important;}
+
+#gtx-trans { display: none !important;}
